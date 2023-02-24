@@ -1,0 +1,9 @@
+[package]
+name = "sway-workspace-switcher"
+version = "1.0.0"
+authors = ["Frieder Reinhold <reinhold@trigon-media.com>"]
+edition = "2018"
+license = "MIT"
+
+[dependencies]
+swayipc = "3.0.1"
